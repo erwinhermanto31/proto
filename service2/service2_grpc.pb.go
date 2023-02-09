@@ -93,5 +93,5 @@ var _Service2_serviceDesc = grpc.ServiceDesc{
 		},
 	},
 	Streams:  []grpc.StreamDesc{},
-	Metadata: "service_2/service_2.proto",
+	Metadata: "service2/service2.proto",
 }
